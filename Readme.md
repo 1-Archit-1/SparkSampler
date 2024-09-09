@@ -1,6 +1,7 @@
 # Word Count and K-means using Spark and Hadoop
 
-This repository contains code for performing Word Count and K-means clustering using Hadoop Map Reduce and Spark.
+This repository contains code for performing Word Count and K-means clustering using Hadoop Map Reduce and Spark. Multiple configurations and datasets were used to identify performance metrics and compare results across different runs. 
+Analysis results have been posted as a pdf. 
 
 ## Word Count
 
